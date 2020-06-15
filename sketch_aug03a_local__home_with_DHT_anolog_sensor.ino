@@ -42,7 +42,7 @@
 #define analogpin         A0
 /************************* WiFi Access Point *********************************/
 #define WLAN_SSID       "srinivas"
-#define WLAN_PASS       "itsme123go"
+#define WLAN_PASS       "***********"
 /************************* Adafruit.io Setup *********************************/
 #define AIO_SERVER      "192.168.0.8" //IP address of RPi
 #define AIO_SERVERPORT  1883                   // use 8883 for SSL
